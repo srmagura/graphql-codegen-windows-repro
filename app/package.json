@@ -1,0 +1,9 @@
+{
+  "name": "app",
+  "packageManager": "yarn@3.6.1",
+  "dependencies": {
+    "@graphql-codegen/cli": "^4.0.1",
+    "@graphql-codegen/client-preset": "^4.0.1",
+    "graphql": "^16.7.1"
+  }
+}

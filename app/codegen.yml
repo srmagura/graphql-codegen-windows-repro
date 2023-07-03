@@ -1,0 +1,4 @@
+schema: ../schema.gql
+generates:
+  gql/:
+    preset: client
