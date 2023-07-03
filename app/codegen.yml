@@ -1,4 +1,7 @@
 schema: ../schema.gql
+documents:
+  - "src/**/*.ts?(x)"
+  - "!src/gql/**/*"
 generates:
-  gql/:
+  src/gql/:
     preset: client
